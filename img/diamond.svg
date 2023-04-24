@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 224" width="224" height="224">
+	<title>New Project</title>
+	<style>
+		.s0 { fill: #95d7ae } 
+		.s1 { fill: #454851 } 
+	</style>
+	<path id="Color Fill 1" class="s0" d="m224 0l-112 167-112-167z"/>
+	<path id="M" class="s1" aria-label="M"  d="m142.7 113l-0.1-57.4h-6.7l-23.6 40.3-24-40.3h-6.7v57.4h7.9v-41.6l20.7 34.6h3.8l20.7-34.8 0.1 41.8z"/>
+</svg>
